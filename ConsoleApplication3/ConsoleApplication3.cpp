@@ -8,6 +8,7 @@ int main()
 	locale(LC_ALL, "Russian");
 	std::cout << "Кирилюк М.А" << endl;
 	cout << "г.Винница" << endl;
+	cout << "Школа №33" << endl;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
