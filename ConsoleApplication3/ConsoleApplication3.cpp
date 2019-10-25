@@ -44,6 +44,7 @@ int main()
 	cout << "Построили стену" << endl;
 	cout << "Ясли" << endl;
 	cout << "Група 1" << endl;
+	cout << "Група 2" << endl;
 
 }
 
