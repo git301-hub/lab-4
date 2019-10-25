@@ -37,6 +37,7 @@ int main()
 	cout << "Увал" << endl;
 	cout << "Вернулся в часть" << endl;
 	cout << "Ясли" << endl;
+	cout << "Група 1" << endl;
 
 }
 
