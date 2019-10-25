@@ -45,6 +45,7 @@ int main()
 	cout << "Ясли" << endl;
 	cout << "Група 1" << endl;
 	cout << "Група 2" << endl;
+	cout << "Група 3" << endl;
 
 }
 
