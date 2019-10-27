@@ -53,6 +53,7 @@ int main()
 	cout << "4 Класс" << endl;
 	cout << "Ясли" << endl;
 	cout << "Група 1" << endl;
+	cout << "Перевод в групу 2" << endl;
 
 }
 
