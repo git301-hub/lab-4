@@ -54,6 +54,8 @@ int main()
 	cout << "Ясли" << endl;
 	cout << "Група 1" << endl;
 	cout << "Перевод в групу 2" << endl;
+	cout << "Перевод в групу 3" << endl;
+
 
 }
 
